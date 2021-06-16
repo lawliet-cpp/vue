@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 2,
+      "title": "React ninja",
+      "details": "ninja",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "title": "Manga Website",
+      "details": "a website for reading manga",
+      "completed": false
+    },
+    {
+      "title": "Vue Ninja",
+      "details": "vue ninja project",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "title": "Angular Ninja",
+      "details": "angular ninja",
+      "completed": false,
+      "id": 5
+    }
+  ]
+}
